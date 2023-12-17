@@ -24,7 +24,6 @@ body {
     
     background: linear-gradient(90deg, rgba(204,33,33,1) 46%, rgba(133,137,228,1) 35%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
 }
 .form-label {
     display: flex;
